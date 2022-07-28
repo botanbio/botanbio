@@ -1,7 +1,7 @@
 ### Olá, eu sou a Milla Thomaz!
 
-🎃 Criei uma conta para __motivar__ meus estudos;  
-🍂 Acho CSS divertido e estou estudando Javascript;
+🎃 Estudo Desenvolvimento Web de forma autônoma;  
+🍂 Vestibulanda;
 
 > Não devemos nos questionar porque algumas coisas nos acontecem e sim o que podemos fazer com o tempo que nos é dado. (*Gandalf, O Senhor dos Anéis*)
 
