@@ -1,7 +1,6 @@
 ### Olá, eu sou a Milla Thomaz!
 
-🎃 Estudo Desenvolvimento Web de forma autônoma;  
-🍂 Vestibulanda;
+🎃 Dev Front-End;  
 
 > Não devemos nos questionar porque algumas coisas nos acontecem e sim o que podemos fazer com o tempo que nos é dado. (*Gandalf, O Senhor dos Anéis*)
 
