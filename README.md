@@ -1,6 +1,6 @@
 ### Olá, eu sou a Milla Thomaz!
 
-👾 Estudante Dev Front-End;  
+👾 Dev Front-End;  
 
 > Não devemos nos questionar porque algumas coisas nos acontecem e sim o que podemos fazer com o tempo que nos é dado. (*Gandalf, O Senhor dos Anéis*)
 
