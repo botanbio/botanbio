@@ -8,7 +8,7 @@
 [//]: # (<div align='center'><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thomillaz&show_icons=true&count_private=true&hide_border=true&title_color=2f6eae&icon_color=2f6eae&text_color=a078ac&bg_color=0d1117" alt="Milla Thomaz github stats" /><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomillaz&layout=compact&hide_border=true&title_color=a078ac&text_color=a078ac&bg_color=0d1117" /></div>)
 
 <div align='center' style='display: inline_block'>
-    <h3>Tecnologias que uso:</h3>
+    <h3>Tecnologias:</h3>
     <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img height='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
