@@ -3,9 +3,8 @@
 <div align='center'>
     <img display='inline_block' height='165em' src='https://github-readme-stats.vercel.app/api?username=thomillaz&show_icons=true&theme=material-palenight'/>
     <img display='inline_block' height='165em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=thomillaz&layout=compact&theme=material-palenight'/>
+    <img display='inline_block' src='https://streak-stats.demolab.com?user=thomillaz&theme=material-palenight&date_format=j%20M%5B%20Y%5D'/>
 </div>
-
-[//]: # (<div align='center'><img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thomillaz&show_icons=true&count_private=true&hide_border=true&title_color=2f6eae&icon_color=2f6eae&text_color=a078ac&bg_color=0d1117" alt="Milla Thomaz github stats" /><img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomillaz&layout=compact&hide_border=true&title_color=a078ac&text_color=a078ac&bg_color=0d1117" /></div>)
 
 <div align='center' style='display: inline_block'>
     <h3>Tecnologias:</h3>
