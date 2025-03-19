@@ -2,8 +2,8 @@
 ### Eu sou a Botan,
 Sou estudante de Engenharia de Bioprocessos e Biotecnologia do 1º semestre, e desejo um dia trabalhar com Bioinformática. Aqui documento minha jornada com a programação.
 <div align='center'>
-    <img display='inline_block' height='165em' src='https://github-readme-stats-sigma-five.vercel.app/api?username=thomillaz&show_icons=true&theme=material-palenight'/>
-    <img display='inline_block' height='165em' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thomillaz&layout=compact&theme=material-palenight'/>
+    <img display='inline_block' height='165em' src='https://github-readme-stats-sigma-five.vercel.app/api?username=botanbio&show_icons=true&theme=material-palenight'/>
+    <img display='inline_block' height='165em' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=botanbio&layout=compact&theme=material-palenight'/>
 </div>
 
 <div align='center' style='display: inline_block'>
