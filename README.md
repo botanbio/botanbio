@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=9000&pause=1000&color=A286C0&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+mundo!)](https://git.io/typing-svg)
 ### Eu sou a Botan,
-Sou estudante de Engenharia de Bioprocessos e Biotecnologia do 1º semestre, e desejo um dia trabalhar com Bioinformática. Aqui documento minha jornada com a programação.
+Sou estudante de Engenharia de Bioprocessos e Biotecnologia e de Ciência da Computação, e desejo um dia trabalhar com Bioinformática. Aqui documento minha jornada com a programação.
 <div align='center'>
     <img display='inline_block' height='165em' src='https://github-readme-stats-sigma-five.vercel.app/api?username=botanbio&show_icons=true&theme=material-palenight'/>
     <img display='inline_block' height='165em' src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=botanbio&layout=compact&theme=material-palenight'/>
